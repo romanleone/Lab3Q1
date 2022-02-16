@@ -1,6 +1,6 @@
 # Lab3Q1
-//Verilog code for schematic design. Some variables are different because my quartus was being buggy in class and I just made this code in a whole nother lab called 3A 
-module Lab_3A (out, d, d_in, clk, rst);
+
+module Lab3_REGISTER (out, d, d_in, clk, rst);
 
 output [31:0] out;
 input d, d_in;
